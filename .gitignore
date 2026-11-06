@@ -1,0 +1,25 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Local tooling
+node_modules/
+coverage/
+*.log
+*.tmp
+
+# Screenshot scratch
+shots/
+/tmp/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Generated browser profiles
+.p15-profile/
+.chrome-profile/
